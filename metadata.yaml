@@ -1,5 +1,8 @@
 _repo: Eloge-de-la-paresse_71110
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71110-h/images/cover.jpg
 creator:
   author:
     agent_name: Marsan, Eugène
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eug%C3%A8ne_Marsan
     - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Marsan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71110#Eloge-de-la-paresse
 gutenberg_issued: '2023-07-03'
 identifiers:
   gutenberg: '71110'
